@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "EliThomp", "url": "http://github.com/EliThomp" },
-      { "network": "linkedin", "username": "CHANGEME", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "Elias Thompson", "url": "www.linkedin.com/in/elias-thompson-02b716257" }
     ]
   },
   "interests": [
@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
-      "courses": "EE 367"[
+      "courses": "Object Oriented Programming, Basic Circuit Analysis, Data Structures & Algorithms"[
       ]
     }
   ],
