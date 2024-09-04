@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/what-is-a-dns-server.png
+image: img/sudoku.png
 title: "Sudoku Solver"
 date: 2022-01-01
 published: true
