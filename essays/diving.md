@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" src="../img/quantumcomputer.jpeg">
+<center> <img width="500" height="500" class="img-fluid" src="../img/quantumcomputer.jpeg"> </center>
 
 Throughout the years many things have evolved and begun to change their meaning in our society. This includes software engineering and its contribution to the tech industry. From being able to give people seamless websites with minimal flaws so they can shop and be entertained, to useful programs that make the daily tasks in life easier. Software engineering is at the forefront of innovation in our world today. It is a dynamic field that has captivated my interest due to its ability to continuously impact the future. One of the many topics of software engineering that catches my attention is quantum computing. Even though quantum computing is a topic way beyond my technological skills, the ideas and implications it proposes to the world are extremely fascinating. The ability to change many fields in our lives like medicine, cybersecurity, and a couple more, I believe it to be one of the many fields of software engineering to have a heavy impact in our lives moving forward.
 
