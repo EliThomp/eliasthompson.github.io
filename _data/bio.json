@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "EliThomp", "url": "http://github.com/EliThomp" },
-      { "network": "linkedin", "username": "Elias Thompson", "url": "www.linkedin.com/in" }
+       { "network": "linkedin", "username": "eliasthompson", "url": "http://linkedin.com/in/elias-thompson-02b716257" }
     ]
   },
   "interests": [
