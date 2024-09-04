@@ -17,8 +17,10 @@ summary: "Created a DNS server that communicated between IP Addresses using doma
   <img width="300px" src="../img/dnsexample3.png" class="img-thumbnail" >
 </div>
 
-In this project, I worked in a team of 4 to design and improve a Network LAN Simulator. The Network LAN Simulator worked by creating a server and a client that were able to send packets back and forth in order to upload, download, and view files in the server. In addition to this the program came with a small 
+In this project, I worked in a team of 4 to design and improve a Network LAN Simulator. Initially, the Network LAN Simulator worked by creating a server and a client that were able to send packets back and forth in order to upload, download, and view files in the server. However, the next improvement in the project was to allow a switch node be used in order to allow multiple servers to communicate back and forth as both the client and server. This would allow multiple servers to download, upload, and view each others files using domain names instead of direct IP addresses. The set up in a physical sense would look like the image provided below.
 
-The main function of the simulator was to upload and download files between a client and a server. The first step taken was to implement the ability to transfer files in packets of specific sizes while also leaving room to increase packet size for further improvements. Then we worked together in order to make a small user interface inside of terminal for the user to be able to download these files with a specific name and to be able to display and quit out of the client when they were finished.
+<center> <img width="300px" src="../img/dnsexample4.png" class="img-thumbnail" > </center>
 
+My main contribution to this would be to create the switch node that allowed the servers to communicate back and forth. I would not work on any of the individual functions like uploading, downloading, or registering domain names, rather I would work on how to get the servers to communicate with each other effectively.
 
+My main takeaways from this project was 
