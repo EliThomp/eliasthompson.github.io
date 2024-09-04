@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/what-is-a-dns-server.png
+image: img/TNG.png
 title: "Tigers and Goats AI"
 date: 2023-09-01
 published: true
