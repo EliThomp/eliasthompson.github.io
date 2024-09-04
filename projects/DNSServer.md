@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/what-is-a-dns-server.png
 title: "DNS Server"
 date: 2024-03-01
 published: true
