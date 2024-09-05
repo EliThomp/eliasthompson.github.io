@@ -20,7 +20,7 @@ From a software engineering perspective, TypeScript seems to be a strong languag
 
 ##Breaking a Sweat
 
-<img class="img-fluid" src="../img/improvement.jpeg">
+<img class="img-fluid" src="../img/improvement.jpg">
 
 When it comes to the Practice WODs, I’ve found them to be both entertaining and
 extremely helpful. The timed exercises give me the ability to push myself while also being able to learn how to perform well under pressure. They also give me a visible benchmark that allows me to try to make myself get better with each attempt. This would be compared to just random homework assignments where I would be trying to finish the assignment. With these practice WODs, I am also trying to improve and become a more efficient programmer. This method is effective because it is very similar to real-life coding interviews and challenges that test a person’s efficiency and accuracy. 
