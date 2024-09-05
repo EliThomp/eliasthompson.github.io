@@ -10,7 +10,7 @@ labels:
   - Reflection
   - TypeScript
 ---
-<h3>First Look at TypeScript</h3>
+<h2>First Look at TypeScript</h2>
 
 Typescript for a complete newbie has been familiar and different compared to the other languages I’ve worked with, such as Java, Python, and C. At a fundamental level, TypeScript builds on JavaScript by adding static typing, which is a unique feature compared to JavaScript's nature. My initial thoughts on TypeScript are that it has a balance between the strict structure of languages like C while also having the flexibility of JavaScript. This makes it easier to error check and form predictable patterns that can help with debugging and avoiding certain problems presented in JavaScript.
 
@@ -18,7 +18,7 @@ The primary difference between TypeScript and Python would be the way types are 
 
 From a software engineering perspective, TypeScript seems to be a strong language that is suited well for large-scale applications. It seems to allow for more control when programming when compared to JavaScript which makes it easier to manage codebases over time. However, the problem is that it also makes the coding experience slower due to the added static typing.
 
-##Breaking a Sweat
+<h2>Breaking a Sweat</h2>
 
 <img class="img-fluid" src="../img/improvement.jpg">
 
