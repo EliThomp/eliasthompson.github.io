@@ -10,7 +10,7 @@ labels:
   - Reflection
   - TypeScript
 ---
-##First Look at TypeScript
+<h1>First Look at TypeScript</h1>
 
 Typescript for a complete newbie has been familiar and different compared to the other languages I’ve worked with, such as Java, Python, and C. At a fundamental level, TypeScript builds on JavaScript by adding static typing, which is a unique feature compared to JavaScript's nature. My initial thoughts on TypeScript are that it has a balance between the strict structure of languages like C while also having the flexibility of JavaScript. This makes it easier to error check and form predictable patterns that can help with debugging and avoiding certain problems presented in JavaScript.
 
