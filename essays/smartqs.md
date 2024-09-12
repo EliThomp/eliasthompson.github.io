@@ -28,17 +28,18 @@ labels:
 
 <h2>"Not-so-Smart" Question Fails</h2>
 
-  A useful example of a “not so smart” question would be shown in StackOverflow. The example asks, “Prompt the user to enter a number between 0 and 1 million. If the number does not fall in the specified range, give a message as ‘Invalid number’. If number is valid, display in the screen, the sum of numbers upto the given number,” fails on being a smart question. 
+  A useful example of a “not so smart” question would be shown in <a href="https://stackoverflow.com/questions/78974826/javascript-loop-and-conditional-statement">StackOverflow</a>. The example asks, “Prompt the user to enter a number between 0 and 1 million. If the number does not fall in the specified range, give a message as ‘Invalid number’. If number is valid, display in the screen, the sum of numbers upto the given number,” fails on being a smart question. 
   
   This question lacks many aspects of a smart question like being precise, having background research, providing context, and lastly seems to be a basic homework question. This question could be improved by fixing some of the grammatical errors along with first providing what language this function should be programmed in. In addition to that, it should also show what they have to start with and possibly a snippet of their code so that responders do not have to create a function from scratch, but rather help to fix their already written code.
   
-  The consequence of this question was that StackOverflow flagged this question as needing to be more “focused”. As a result, the question was closed by StackOverflow, indicating that without focus and details, a question is not likely to receive quality responses. It also becomes burdensome for others to try and help questions like this.
+  The consequence of this question was that StackOverflow flagged this question as needing to be more “focused”. As a result, the question was closed by StackOverflow, indicating that without focus and details, a question is not likely to receive quality responses. It also becomes burdensome for others to try and help with questions like this.
 
 <h2>Effectiveness of a "Smart" Question</h2>
 
 <center> <img width="500" height="500" class="img-fluid" src="../img/smartqs2.png"> </center>
 
-  To show the contrary, on StackOverflow an example of a smart question was asked which was about the idea of memory optimization and loop performance. This example provided a scenario they have been experimenting with which involves adding four big arrays (labeled a1, b1, c1, d1). The first method of adding the array had a loop that adds b1[j] to a1[j] and immediately after, adds d1[j] to c1[j]. Which ultimately makes the loop do two tasks. However, the second method runs one loop to add b1[j] to a1[j] for all elements and then does the same in a separate loop for d1 and c1. 
+  To show the contrary, on <a href="https://stackoverflow.com/questions/8547778/why-are-elementwise-additions-much-faster-in-separate-loops-than-in-a-combined-l
+">StackOverflow</a> an example of a smart question was asked which was about the idea of memory optimization and loop performance. This example provided a scenario they have been experimenting with which involves adding four big arrays (labeled a1, b1, c1, d1). The first method of adding the array had a loop that adds b1[j] to a1[j] and immediately after, adds d1[j] to c1[j]. Which ultimately makes the loop do two tasks. However, the second method runs one loop to add b1[j] to a1[j] for all elements and then does the same in a separate loop for d1 and c1. 
   
   In addition to showing that the second method almost doubled the speed of the first method he also provided what he compiled the program on and the specs of his computer. Finally, he finishes off his findings with a graph of the cache behaviors and poses the clear question,” Could you provide some solid insight into the details that lead to the different cache behaviors as illustrated by the five regions on the following graph?”. The asker provides a clear, focused problem which includes specific details such as the hardware and software environment, and provides code that highlights the issue they are facing.
   
