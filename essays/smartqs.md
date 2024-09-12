@@ -12,7 +12,7 @@ labels:
 ---
 <h2>Understanding How to Ask</h2>
 
-<img class="img-fluid" src="../img/smartqs1.jpg">
+<center> <img width="500" height="500" class="img-fluid" src="../img/smartqs1.jpg"> </center>
 
   To get clear and concise answers, one should learn how to ask what’s known as a “smart” question first. This idea of a “smart” question comes from Eric Raymond’s essay, How To Ask Questions The Smart Way, in which he dives into what he believes is the correct way to ask questions so that people like him, hackers and tech wizards, are more inclined to give straight and insightful answers. According to Eric Raymond’s essay, a smart question starts with your research. Being able to look for the results on your own allows you to avoid duplicating previously answered questions. In addition to that, it also stops you from wasting others' time with questions that already have information on how to solve out there. After doing your research, the next step is to find an appropriate message board that fits your question's topic and skill level. Then the question should be structured clearly and concisely, with appropriate subject headers to attract the right audience. Along with a clear question, it should be followed up with your prior findings through either experimentation or research. These findings should be structured clearly and provide context to the situation. Lastly, if your question is about a problem you are facing make sure that the symptoms are in chronological order. Essentially, a smart question is designed to streamline the help process by providing all the necessary information upfront for others to assist effectively.
 
@@ -26,7 +26,7 @@ labels:
 
 <h2>Effectiveness of a "Smart" Question</h2>
 
-<img class="img-fluid" src="../img/smartqs2.png">
+<center> <img width="500" height="500" class="img-fluid" src="../img/smartqs2.png"> </center>
 
   To show the contrary, on StackOverflow an example of a smart question was asked which was about the idea of memory optimization and loop performance. This example provided a scenario they have been experimenting with which involves adding four big arrays (labeled a1, b1, c1, d1). The first method of adding the array had a loop that adds b1[j] to a1[j] and immediately after, adds d1[j] to c1[j]. Which ultimately makes the loop do two tasks. However, the second method runs one loop to add b1[j] to a1[j] for all elements and then does the same in a separate loop for d1 and c1. In addition to showing that the second method almost doubled the speed of the first method he also provided what he compiled the program on and the specs of his computer. Finally, he finishes off his findings with a graph of the cache behaviors and poses the clear question,” Could you provide some solid insight into the details that lead to the different cache behaviors as illustrated by the five regions on the following graph?”. The asker provides a clear, focused problem which includes specific details such as the hardware and software environment, and provides code that highlights the issue they are facing. Due to their smart question, in return, the asker got an in-depth response that showed off some of the responder's findings. The community appreciated the specificity and responded with well-thought-out, comprehensive explanations that addressed the behavior of CPU cache behavior and memory management. As a result, this made a rich learning experience for both the asker and other readers.
 
